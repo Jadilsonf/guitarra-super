@@ -1,0 +1,65 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap'); */
+
+body{ 
+  background: url("./components/Background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.header{
+  font-family: 'Syne Mono', monospace;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px;
+  background: linear-gradient(#3a6186,  #89253e);
+  color: white;
+}
+
+.logo{
+  align-items: center;
+  display: block;
+  float: right;
+  height: 3rem;
+}
+
+.menu{
+  display: flex;
+  font-family: 'Syne Mono', monospace;
+}
+
+.menu li{
+  margin-left: 25px;
+}
+
+.links{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 2rem;
+}
+
+li{
+  list-style: none
+}
+
+.interm, .avanc, .superavanc{
+  font-family: 'Syne Mono', monospace;
+  font-size: x-large;
+  border-color: aliceblue;
+  padding: 2rem;
+}
+
+.divm1{
+  display: block;
+  width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: none;
+  border-radius: 10px;
+}
+.m1{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: larger;
+  background: linear-gradient(#ee0979, #ff6a00) ;
+}

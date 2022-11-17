@@ -1,0 +1,30 @@
+.ini{
+    text-align: center;
+}
+
+.start{
+    font-family: 'Syne Mono', monospace;
+    opacity: 0.9;
+    display: flexbox;
+    color: white;
+    background: linear-gradient(#3a6186,  #89253e);
+    position: relative;
+    padding: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: none;
+    border-color: #3B4371;
+    border-radius: 10px;
+}
+
+.pmain{
+    display: inline-block;
+    color: white;
+    max-width: 40%;
+    align-items: center;
+    text-align: left;
+    justify-content: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: larger;
+}

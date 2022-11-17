@@ -1,0 +1,65 @@
+.nomeJadilson{
+    font-family: 'Syne Mono', monospace;
+    opacity: 0.9;
+    display: inline-block;
+    color: aqua;
+    background: linear-gradient(#3a6186,  #89253e);
+    padding: 40px;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+.face{
+    display: block;
+    position: relative;
+    left: 40.4%;
+    width: 12em;
+    border-style: none;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.p1{
+    display: inline-block;
+    color: white;
+    max-width: 40%;
+    align-items: center;
+    text-align: left;
+    justify-content: right;
+    font-family: 'Syne Mono', monospace;
+    font-weight: 100;
+}
+
+.instadiv{
+    margin-left: auto;
+    margin-right: auto;
+    color: #F3904F;
+    font-family: 'Syne Mono', monospace;}
+
+a:link{
+    text-decoration: none;
+    color: white;
+    transition: 0.7s;
+}
+
+a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgb(0, 255, 47);
+}
+
+
+@media (max-width: 765px){
+    .face{
+        display: block;
+        position: static;
+        padding: 20vw;
+    }    
+}
+
