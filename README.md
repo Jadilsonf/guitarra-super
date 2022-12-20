@@ -11,4 +11,4 @@ Para instalar localmente o projeto, ao abri-lo, instale as depêndencias digitan
 npm install react react-router-dom react-player phosphore-icons
 ```
 
-### Esta foi a minha primeira página com React, o intuito principal foi praticar o React-Router depois das mudanças lançadas na V6.
+##### Esta foi a minha primeira página com React, o intuito principal foi praticar o React-Router depois das mudanças lançadas na V6. Obrigado por visualizar 😁.
