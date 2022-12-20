@@ -5,7 +5,7 @@ function Inicio() {
   return (
     <div className='ini'>
       <h3 className='start'> 
-        CLIQUE EM UM DOS NÍVEIS PARA INICIAR
+        CLIQUE EM UM DOS NÍVEIS PARA INICIAR AS LIÇÕES
       </h3>
       <h3 className='start'> 
         
