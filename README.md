@@ -8,7 +8,7 @@ _para acessá-la  [clique aqui](http://guitarrasuper.netlify.app)._
 Para instalar localmente o projeto, ao abri-lo, instale as depêndencias digitando o seguinte comando no terminal:
 
 ```sh
-npm install react react-router-dom react-player phosphore-icons
+npm install
 ```
 
 Para rodar a aplicação:
@@ -31,7 +31,7 @@ _to access it [click here](http://guitarrasuper.netlify.app)._
 To locally install the project, when opening it, install the dependencies by typing the following command in the terminal:
 
 ```sh
-npm install react react-router-dom react-player phosphore-icons
+npm install
 🇧🇷
 
 to run:
