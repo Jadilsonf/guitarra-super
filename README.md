@@ -33,7 +33,7 @@ To locally install the project, when opening it, install the dependencies by typ
 ```sh
 npm install
 🇧🇷
-
+```
 to run:
 
 ```sh
